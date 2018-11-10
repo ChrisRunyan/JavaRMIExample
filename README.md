@@ -8,4 +8,3 @@ Example distributed system using Java Remote Method Invocation (RMI). Instructio
 - rmiregistry yourPort# (first window)
 - java Server (second window)
 - java Client localhost (third window)
-
